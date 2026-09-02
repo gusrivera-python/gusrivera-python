@@ -105,3 +105,5 @@ I'm interested in opportunities as:
 ---
 
 ⭐ *Always learning. Always improving. Always solving problems with data.*
+
+GitHub Stats
